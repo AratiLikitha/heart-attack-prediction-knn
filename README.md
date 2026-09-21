@@ -26,9 +26,10 @@ Python, Pandas, Scikit-Learn, GridSearchCV, Pipeline
 - heart_attack_knn.ipynb
 
 ## How to Run
-1. Download heart.csv from Kaggle link above
-2. Place it in same folder as notebook
-3. Run notebook
+1. Download heart.csv from Kaggle link above: https://www.kaggle.com/datasets/nareshbhat/health-care-data-set-on-heart-attack-possibility
+2. Place heart.csv in same folder as notebook
+3. Install requirements: `pip install pandas scikit-learn`
+4. Open and run `heart_attack_knn.ipynb` in Jupyter Notebook / VS Code
 
 ## Author
 Pati Likitha
